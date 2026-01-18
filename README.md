@@ -1,5 +1,5 @@
-💫 Hi 👋, I'm Kamal Suthar
-Full-Stack Developer | Crafting seamless UI/UX and robust Backend solutions
+# 💫 Hi 👋, I'm Kamal Suthar
+**Full-Stack Developer | Crafting seamless UI/UX and robust Backend solutions**
 
 Email Me 👉 ✉️ kamalji7467gmail.com For Collaboration/Project or Anything Else. 😊😊
 
